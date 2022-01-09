@@ -1,0 +1,17 @@
+IntPair\IntPair.class
+WholeFileRecordReader.class
+JoinRecordWithStationName.class
+SortByTemperatureUsingTotalOrderPartitioner.class
+AvroGenericMaxTemperature$MaxtemperatureMapper.class
+AvroGenericMaxTemperature$MaxTemperatureReducer.class
+SortByTemperatureUsingHashPartitioner.class
+JoinStationMapper.class
+JobBuilder.class
+TextPair.class
+JoinRecordWithStationName$KeyPartitioner.class
+NcdcStationMetadataParser.class
+TextPair$FirstComparator.class
+SortDataPreprocessor$CleanerMapper.class
+AvroGenericMaxTemperature.class
+MinimalMapReduceWithDefaults.class
+SortDataPreprocessor.class

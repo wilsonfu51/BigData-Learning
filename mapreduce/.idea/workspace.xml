@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="788d1dc1-3db3-444d-9e23-7bcff69d8872" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mapreduce" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1x7mE4yEJnq4UUmlLIKAtospcLn" />
+  <component name="PropertiesComponent">
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/apache-hive-3.1.2-src.tar/apache-hive-3.1.2-src/jdbc/src/java/org/apache/hive/jdbc/JdbcColumn.java" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Downloads/apache-hive-3.1.2-src.tar/apache-hive-3.1.2-src/jdbc/src/java/org/apache/hive/jdbc/JdbcColumn.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="IntPair" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wilson\IdeaProjects\mapreduce\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AvroSort">
+    <configuration name="AvroGenericMaxTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AvroGenericMaxTemperature" />
+      <module name="mapreduce" />
+      <option name="PROGRAM_PARAMETERS" value="inputNcdc outputAvro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvroSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.AvroSort" />
+      <module name="mapreduce" />
+      <option name="PROGRAM_PARAMETERS" value="ch12-avro\src\main\py\pairs.avro outputSortedAvro src\main\java\ch12\SortedStringPair.avsc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvroStringPairSpecificAPITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AvroStringPairSpecificAPITest" />
+      <module name="mapreduce" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ch12.AvroSort" />
+      <option name="PROGRAM_PARAMETERS" value="..\ch12-avro\src\main\py\pairs.avro outputSortedAvro SortedStringPair.avsc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvroStringPairAPITest.avroStringPairGenericAPItest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mapreduce" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AvroStringPairAPITest" />
+      <option name="METHOD_NAME" value="avroStringPairGenericAPItest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvroStringPairSpecificAPITest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mapreduce" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AvroStringPairSpecificAPITest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AvroStringPairSpecificAPITest" />
+      <item itemvalue="Application.AvroGenericMaxTemperature" />
+      <item itemvalue="Application.AvroSort" />
+      <item itemvalue="JUnit.AvroStringPairSpecificAPITest.test" />
+      <item itemvalue="JUnit.AvroStringPairAPITest.avroStringPairGenericAPItest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AvroSort" />
+        <item itemvalue="Application.AvroGenericMaxTemperature" />
+        <item itemvalue="JUnit.AvroStringPairAPITest.avroStringPairGenericAPItest" />
+        <item itemvalue="JUnit.AvroStringPairSpecificAPITest.test" />
+        <item itemvalue="Application.AvroStringPairSpecificAPITest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="788d1dc1-3db3-444d-9e23-7bcff69d8872" name="Default Changelist" comment="" />
+      <created>1629714385392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629714385392</updated>
+      <workItem from="1629714386791" duration="16537000" />
+      <workItem from="1629853267279" duration="12652000" />
+      <workItem from="1632727784191" duration="3817000" />
+      <workItem from="1632791813997" duration="6493000" />
+      <workItem from="1632837102522" duration="662000" />
+      <workItem from="1632873848723" duration="1692000" />
+      <workItem from="1632901982673" duration="2458000" />
+      <workItem from="1633661409681" duration="5996000" />
+      <workItem from="1633739194015" duration="18760000" />
+      <workItem from="1634003526688" duration="651000" />
+      <workItem from="1634004305366" duration="13541000" />
+      <workItem from="1634094726122" duration="19242000" />
+      <workItem from="1634170831493" duration="14002000" />
+      <workItem from="1634201603874" duration="6776000" />
+      <workItem from="1634258210411" duration="10063000" />
+      <workItem from="1634634714610" duration="5639000" />
+      <workItem from="1634692428639" duration="16922000" />
+      <workItem from="1636082522836" duration="828000" />
+      <workItem from="1636093244884" duration="2550000" />
+      <workItem from="1636198020958" duration="2056000" />
+      <workItem from="1636379781392" duration="139000" />
+      <workItem from="1636379946019" duration="629000" />
+      <workItem from="1636420721284" duration="1243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MaxTemperatureDriverTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MaxTemperatureDriverTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MaxTemperatureMapper.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JoinStationMapper.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MaxTemperatureByStationNameUsingDistributedCacheFile.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/NcdcStationMetadataParser.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JoinReducer.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/StationTemperatureReducerTest.java</url>
+          <line>10</line>
+          <properties class="StationTemperatureReducerTest" method="returnsMaximumIntegerInValues">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="conf.classLoader" />
+        <watch expression="((ValueIterable)values).this$0" custom="org.apache.hadoop.mapreduce.task.ReduceContextImpl.ValueIterable" />
+        <watch expression="DAKOTAH" language="JAVA" />
+        <watch expression="c" language="JAVA" />
+        <watch expression="((ReduceContextImpl)((ValueIterable)values).this$0).iterable" custom="org.apache.hadoop.mapreduce.task.ReduceContextImpl" />
+        <watch expression="((MapContextImpl)((Context)context).mapContext).reader" custom="org.apache.hadoop.mapreduce.lib.map.WrappedMapper.Context,org.apache.hadoop.mapreduce.task.MapContextImpl" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mapreduce$StationTemperatureReducerTest_returnsMaximumIntegerInValues.ic" NAME="StationTemperatureReducerTest.returnsMaximumIntegerInValues Coverage Results" MODIFIED="1634202163070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
