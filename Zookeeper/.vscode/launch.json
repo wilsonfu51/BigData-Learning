@@ -1,0 +1,92 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CreateGroup",
+            "request": "launch",
+            "mainClass": "com.wilson.java.CreateGroup",
+            "projectName": "Zookeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConfigWatcher",
+            "request": "launch",
+            "mainClass": "com.wilson.java.ConfigWatcher",
+            "projectName": "Zookeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch WriteFile",
+            "request": "launch",
+            "mainClass": "com.wilson.java.Lock.WriteFile",
+            "projectName": "Zookeeper",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetLock",
+            "request": "launch",
+            "mainClass": "com.wilson.java.Lock.GetLock",
+            "projectName": "Zookeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConfigWatcher",
+            "request": "launch",
+            "mainClass": "ConfigWatcher",
+            "projectName": "Zookeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConfigUpdater",
+            "request": "launch",
+            "mainClass": "ConfigUpdater",
+            "projectName": "Zookeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeleteGroup",
+            "request": "launch",
+            "mainClass": "DeleteGroup",
+            "projectName": "Zookeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListGroup",
+            "request": "launch",
+            "mainClass": "ListGroup",
+            "projectName": "Zookeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch JoinGroup",
+            "request": "launch",
+            "mainClass": "JoinGroup",
+            "projectName": "Zookeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch ZKGetData",
+            "request": "launch",
+            "mainClass": "ZKGetData",
+            "projectName": "Zookeeper"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateGroup",
+            "request": "launch",
+            "mainClass": "CreateGroup",
+            "projectName": "Zookeeper"
+        }
+    ]
+}
